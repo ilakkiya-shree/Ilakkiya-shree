@@ -19,7 +19,7 @@ Languages
 - C++
 - Python
 
-  Currently Learning
+Currently Learning
 
 - Python Backend Development
 - Improving programming and problem-solving skills
