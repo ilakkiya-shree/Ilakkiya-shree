@@ -1,16 +1,26 @@
-## Hi there 👋
+Hi 👋, I'm Ilakkiyashree
 
-<!--
-**ilakkiya-shree/Ilakkiya-shree** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.E. Computer Science and Engineering Student
 
-Here are some ideas to get you started:
+About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Aspiring AI Engineer.
+- Interested in Artificial Intelligence and Machine Learning.
+- Passionate about programming and technology.
+- Always eager to learn and explore new technologies.
+
+Languages
+
+- C
+- C++
+- Python
+
+Areas of Interest
+
+- Artificial Intelligence
+- Machine Learning
+- Software Development
+
+Connect with Me
+
+- LinkedIn: https://www.linkedin.com/in/ilakkiyashree/
