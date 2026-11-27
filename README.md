@@ -9,6 +9,10 @@ About Me
 - Passionate about programming and technology.
 - Always eager to learn and explore new technologies.
 
+My Mission
+
+My mission is to grow as a Python Backend Developer, strengthen my programming skills, contribute to meaningful projects, and explore Artificial Intelligence and Machine Learning.
+
 Languages
 
 - C
