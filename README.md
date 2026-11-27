@@ -19,6 +19,11 @@ Languages
 - C++
 - Python
 
+  Currently Learning
+
+- Python Backend Development
+- Improving programming and problem-solving skills
+
 Areas of Interest
 
 - Artificial Intelligence
